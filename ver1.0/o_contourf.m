@@ -6,6 +6,11 @@ function [C,h]= o_contourf(varargin)
 %   coast and grid automatically.
 %
 %   Edit by ZelunWu.
+%   Webpage: http://www.zelunwu.com/category/#/Codes
+%   Source Code: https://github.com/zelunwu/ocean_map/
+%   E-mail: wuzelun@foxmail.com
+
+
 
 warning off
 % figure;
