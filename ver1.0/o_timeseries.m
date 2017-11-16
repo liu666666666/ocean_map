@@ -4,6 +4,11 @@ function hand = o_timeseries(start_time,end_time,v)
 %  This function is used to plot the time series, it will convert the x
 %  axie to the time format: 'yyyy/mm' automatically.
 %  The syntax rules is the same with plot.
+%
+%   Edit by ZelunWu.
+%   Webpage: http://www.zelunwu.com/category/#/Codes
+%   Source Code: https://github.com/zelunwu/ocean_map/
+%   E-mail: wuzelun@foxmail.com
 
 year_start = start_time(1);
 month_start = start_time(2);
