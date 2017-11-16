@@ -5,7 +5,11 @@ function [h] = o_pcolor(varargin);
 %   The syntax rules is the same with 'm_pcolor', but it will add the
 %   coast and grid automatically.
 %
+%
 %   Edit by ZelunWu.
+%   Webpage: http://www.zelunwu.com/category/#/Codes
+%   Source Code: https://github.com/zelunwu/ocean_map/
+%   E-mail: wuzelun@foxmail.com
 
 warning off
 % figure;
